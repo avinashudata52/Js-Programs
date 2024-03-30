@@ -1,0 +1,13 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    background-color: red;
+
+    color: aliceblue;
+}
+button{
+    background-color: aqua;
+    text-shadow: 10cm;
+    border: 20cm;
+}
